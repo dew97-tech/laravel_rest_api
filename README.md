@@ -201,4 +201,4 @@ After running the seeders, you should see sample data in the respective database
 
 ---
 
-This is intended to provide clear and precise guidelines to evaluators and other users, ensuring that they can set up and use your Laravel project with ease.
+This is intended to provide clear and precise guidelines to evaluators and other users, ensuring that they can set up and use the Laravel project with ease.
